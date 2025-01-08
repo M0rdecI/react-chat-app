@@ -1,2 +1,2 @@
-# MERN-Chat-App
-A simple real time chat application built upon the MERN stack.
+# Full Stack React Chat Application
+A simple real time chat application built with React JS and Firebase.
